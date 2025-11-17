@@ -1,0 +1,3 @@
+Guild.xyz verification
+Timestamp: 2025-11-17T13:58:45.418Z
+Commit: Resolve null pointer exception in user service
